@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "usbembedido")(type "KiCad")(uri "${KIPRJMOD}/usbembedido.pretty")(options "")(descr ""))
+  (lib (name "Led_UCC")(type "KiCad")(uri "C:/Users/2022/Desktop/Lab. Comp/uccmicroduinoproyecto-comision3-LucasGarletti/PCBnew/Footprint Libraries/ledSmd/Led_UCC.pretty")(options "")(descr ""))
+)

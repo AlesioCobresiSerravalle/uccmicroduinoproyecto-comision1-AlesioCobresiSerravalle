@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "USB_A_UCC")(type "KiCad")(uri "C:/Users/2022/Desktop/Lab. Comp/uccmicroduinoproyecto-comision3-LucasGarletti/USB_A_UCC.kicad_sym")(options "")(descr ""))
+  (lib (name "USB_UCC")(type "KiCad")(uri "${KIPRJMOD}/USB_UCC.kicad_sym")(options "")(descr ""))
+)
